@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=2A9DFF&center=true&vCenter=true&width=500&lines=Pablo+Vinícius;Back-end+Developer;Java+%7C+Spring+Boot;Sempre+aprendendo+algo+novo" />
 </p>
 
+
+
 ---
 
 ## 🧑‍💻 Sobre mim
@@ -12,8 +14,7 @@
 - 🚀 Focado em trabalhar na área bancária (Itaú, Santander, etc.)
 - 📚 Atualmente estudando **Java, Spring Boot, APIs REST, PostgreSQL e Docker**
 - 🎯 Meta: conquistar um estágio como back-end em 1 ano e meio
-- 🔧 Projetos atuais: *Book Recommender*, *Calculadora Universal*, *Gerador de Currículo Online*
-- 🎮 Fun fact: adoro resolver problemas difíceis e aprender rápido
+
 
 ---
 
@@ -41,13 +42,14 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+
+## 📊 Minhas estatísticas (atalho)
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabvini&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabvini&show_icons=true&theme=tokyonight&hide_border=true)
+![Followers](https://img.shields.io/github/followers/pabvini?label=Seguidores&style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/pabvini/app-da-escola?label=Tamanho%20do%20Repositório&style=for-the-badge)
+![Top Language](https://img.shields.io/badge/Top%20Linguagem-Java-blue?style=for-the-badge)
 
 </div>
 
@@ -65,7 +67,7 @@
 
 ## 📫 Contato
 
-**Email:** *pablo.vinicius2115@gmail.com*
-**Telefone/Whatsapp:** *+55 91 98618-3800*
+- **Email:** *pablo.vinicius2115@gmail.com*
+- **Telefone/Whatsapp:** *+55 91 98618-3800*
 
 ---
