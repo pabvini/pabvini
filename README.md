@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Bem-vindo ao meu GitHub</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=2A9DFF&center=true&vCenter=true&width=500&lines=Pablo+Vinícius;Back-end+Developer;Java+%7C+Spring+Boot;Sempre+aprendendo+algo+novo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=2A9DFF&center=true&vCenter=true&width=500&lines=Pablo+Vinicius;Back-end+Developer;Java+%7C+Spring+Boot;Sempre+aprendendo+algo+novo" />
 </p>
 
 
@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 💼 Meu nome é **Pablo Vinícius**, futuro desenvolvedor **Back-end em Java**
+- 💼 Meu nome é **Pablo Vinicius**, futuro desenvolvedor **Back-end em Java**
 - 🚀 Focado em trabalhar na área bancária (Itaú, Santander, etc.)
 - 📚 Atualmente estudando **Java, Spring Boot, APIs REST, PostgreSQL e Docker**
 - 🎯 Meta: conquistar um estágio como back-end em 1 ano e meio
